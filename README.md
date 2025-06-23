@@ -1,14 +1,19 @@
 ## Hi there 👋 , Ashish here 😊
-
+<br>
 Engineering Student at SCRIET ,CCSU 
-
+  <br>  
 I'm currently focusing on c++ & dsa also on problem solving .
+<br>
 I am currently learning Orcle Database .
+<br>
 U can ask me about Sql , C++, DSA , OS ...etc.
+<br>
 how to reach me 😒
+<br>
 ashishmauryaofficial2025@gmail.com
+<br>
 Know about my experiences https://drive.google.com/drive/folders/1LDqmdgHvaUbhtmbZ_2K_o-Jrj7_7k1C3
-
+<br>
 😜😜 fun fact I love to watch Iron man 🤖.
 
 
