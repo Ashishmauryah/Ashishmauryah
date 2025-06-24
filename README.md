@@ -22,7 +22,7 @@ Know about my experiences https://drive.google.com/drive/folders/1LDqmdgHvaUbhtm
  Enterprise 
  https://github.com/settings/organizations
  <br>
- I’m looking for job 😊
+ I’m looking for job 
 <!--
 **Ashishmauryah/Ashishmauryah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
